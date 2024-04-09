@@ -20,7 +20,7 @@ Computer Engieering Student
 
 
 ## Contact
-- [Email](humza4552professional@gmail.com)
+- [Email](http://www.humza4552professional@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/humza-rana-762129258/)
 
 
