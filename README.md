@@ -1,16 +1,23 @@
-### Hi there 👋
 
 <!--
 **HumzaProfessional/HumzaProfessional** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hello and welcome to my Github page!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+Computer Engieering Student
+
+
+## Guide
+
+- [Introduction ot Raspberry PICO](https://github.com/HumzaProfessional/Raspberry-pico-projects.github.io) : A basic guide
+
+
+
+## Contact
+- [Email](humza4552professional@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/humza-rana-762129258/)
+
+
+
+
