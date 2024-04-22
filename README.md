@@ -6,7 +6,7 @@ Computer Engieering Student with an interest in directly applying theoretical co
 
 ## Projects
 
-### No Projects yet...
+- [C++ projects](https://github.com/HumzaProfessional/Cplusplus-Projects)
 
 
 
