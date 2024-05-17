@@ -7,7 +7,7 @@ Computer Engieering Student with an interest in directly applying theoretical co
 ## Projects
 
 - [C++ projects](https://github.com/HumzaProfessional/Cplusplus-Projects)
-- [Ardunio Projects](https://github.com/HumzaProfessional/Arduino-Projects-)
+- [Arduino Projects](https://github.com/HumzaProfessional/Arduino-Projects-)
 
 
 
