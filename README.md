@@ -23,7 +23,7 @@ Computer Engieering Student with an interest in directly applying theoretical co
 ## Contact
 - [Email](http://www.humza4552professional@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/humza-rana-762129258/)
-- [hackaday.io)(https://hackaday.io/projects/hacker/1496241)
+- [hackaday.io](https://hackaday.io/projects/hacker/1496241)
 
 
 
