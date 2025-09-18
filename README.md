@@ -4,7 +4,6 @@
 ## About me
 Computer Engieering Student with an interest in directly applying theoretical computer science and mathematics to understand and advancing computer technology. Also, interested in how to relate the theory of computation in other fields of science such as physics and biology.
 
-Interested in all sciences too; reading into current research is one of my past-times. 
 
 ## Projects
 
