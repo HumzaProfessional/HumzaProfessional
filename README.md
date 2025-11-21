@@ -10,6 +10,7 @@ Computer Engieering Student with an interest in directly applying theoretical co
 - [C++ projects](https://github.com/HumzaProfessional/Cplusplus-Projects)
 - [Arduino Projects](https://github.com/HumzaProfessional/Arduino-Projects-)
 - [Stm32 Projects](https://github.com/HumzaProfessional/STM32_Nucleo_projects/tree/main)
+- [Networking & Iot Projects] (https://github.com/HumzaProfessional/Networking_and_IoT_projects)
 
 
 
