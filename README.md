@@ -7,15 +7,16 @@ Computer Engieering Student with an interest in directly applying theoretical co
 
 ## Projects
 
-### Language specific 
+### Programming Language specific 
 - [C++ projects](https://github.com/HumzaProfessional/Cplusplus-Projects)
 ### Hardware-specific 
 - [Arduino Projects](https://github.com/HumzaProfessional/Arduino-Projects-)
 - [Stm32 Projects](https://github.com/HumzaProfessional/STM32_Nucleo_projects/tree/main)
-- [Raspberry pi projects] (https://github.com/HumzaProfessional/Raspberry_pi_projects/tree/main)
+- [Raspberry pi projects](https://github.com/HumzaProfessional/Raspberry_pi_projects/tree/main)
 ### Sector specific 
 - [Networking & Iot Projects](https://github.com/HumzaProfessional/Networking_and_IoT_projects)
 - [Linux-Unix-and-embedded-OS-projects](https://github.com/HumzaProfessional/Linux-Unix-and-embedded-OS-projects)
+- [Hardware and digital design projects](https://github.com/HumzaProfessional/Digital-Design-Projects)
 
 ## Guide
 
